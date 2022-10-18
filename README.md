@@ -1,5 +1,5 @@
                     Hi 👋, I'm Ambarish singh
-  _________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 
 [![](https://visitcount.itsvg.in/api?id=Ambarish-224&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -10,7 +10,7 @@
 🔭 I’m currently working on my Data Science Skills.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>👨‍💻 All of my projects are available at<br>https://github.com/Ambarish-224<br><br>📝 I regularly write articles on<br>https://www.linkedin.com/in/ambarish-224/recent-activity/shares/<br><br>💬 Ask me about Analytics Use-Cases in Business<br><br>📫 How to reach me ambarish.singh224@gmail.com<br><br>⚡ Fun fact I love watching and playing cricket, and chess<br><br><br><br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ambarish.tech.224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tech_lifestyle_224/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ambarish-224/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ambarish_224) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ambarish.tech.224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tech_lifestyle_224/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambarish-224/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ambarish_224) 
 
 
 # 💻 Tech Stack:
