@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ambarish singh</h1>  
-_________________________________________________________________________________________________________________________________________
 
 [![](https://visitcount.itsvg.in/api?id=Ambarish-224&icon=5&color=6)](https://visitcount.itsvg.in)
 
