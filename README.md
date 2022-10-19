@@ -1,4 +1,4 @@
-                    Hi 👋, I'm Ambarish singh
+  Hi 👋, I'm Ambarish singh
 _________________________________________________________________________________________________________________________________________
 
 [![](https://visitcount.itsvg.in/api?id=Ambarish-224&icon=5&color=6)](https://visitcount.itsvg.in)
