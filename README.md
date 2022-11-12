@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ambarish singh</h1>  
+<h1 align="left">Hi 👋, I'm Ambarish singh</h1>  
 
-[![](https://visitcount.itsvg.in/api?id=Ambarish-224&icon=5&color=6)](https://visitcount.itsvg.in)
+<div id="badges" align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Ambarish-224&color=blueviolet" alt=""/>
+ </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ambarish-224&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
