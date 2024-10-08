@@ -6,7 +6,7 @@
 
 <br>
  <a href="https://stardev.io/developers/Ambarish-224"><img alt="Check out Ambarish-224's profile on stardev.io" src="https://stardev.io/developers/Ambarish-224/badge/languages/country.svg" /></a>
-<br>
+<br><br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ambarish-224&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
