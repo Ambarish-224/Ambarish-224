@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ambarish singh</h1>  
 
+<br><br>
 <div id="badges" align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-Ambarish-224&color=blueviolet" alt=""/>
  </div>
