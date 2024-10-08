@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Ambarish-224&color=blueviolet" alt=""/>
  </div>
 
- <a href="https://stardev.io/developers/Ambarish-224"><img alt="Check out Ambarish-224's profile on stardev.io" src="https://stardev.io/developers/Ambarish-224/badge/languages/global.svg" /></a>
-
+<br><br>
  <a href="https://stardev.io/developers/Ambarish-224"><img alt="Check out Ambarish-224's profile on stardev.io" src="https://stardev.io/developers/Ambarish-224/badge/languages/country.svg" /></a>
 
 ## 🏆 GitHub Trophies
