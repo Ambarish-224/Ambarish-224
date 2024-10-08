@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ambarish singh</h1>  
 
-<br><br>
+<br>
 <div id="badges" align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-Ambarish-224&color=blueviolet" alt=""/>
  </div>
 
-<br>
  <a href="https://stardev.io/developers/Ambarish-224"><img alt="Check out Ambarish-224's profile on stardev.io" src="https://stardev.io/developers/Ambarish-224/badge/languages/country.svg" /></a>
 <br><br><br>
 
